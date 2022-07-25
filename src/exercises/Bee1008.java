@@ -32,7 +32,7 @@ public class Bee1008 {
 
         salary = (double) workedHours * amountPerHour;
         System.out.println("NUMBER = " + employeeNumber);
-        System.out.println("SALARY = U$ " + salary);
+        System.out.printf("SALARY = U$ %.2f%n", salary);
         scan.close();
     }
 }

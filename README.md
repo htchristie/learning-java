@@ -8,3 +8,7 @@ A repository of notes and exercises from my Java learning path.
 - Data Output
 - Casting
 - Math Functions
+
+### Conditional Structure
+- Comparative Expressions
+- Logical Expressions

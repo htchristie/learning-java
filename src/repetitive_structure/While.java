@@ -11,8 +11,8 @@ public class While {
         // Once "0" is entered, print out the total.
 
         Scanner scan = new Scanner(System.in);
-        int number, sum = 0;
-        number = scan.nextInt();
+        int sum = 0;
+        int number = scan.nextInt();
 
         while (number != 0) {
             sum += number;

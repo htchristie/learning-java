@@ -20,4 +20,4 @@ A repository of notes and exercises from my Java learning path.
 ### Repetitive Structure
 - While
 - For
-- Do While
+- Do-while

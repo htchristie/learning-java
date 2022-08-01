@@ -12,3 +12,7 @@ A repository of notes and exercises from my Java learning path.
 ### Conditional Structure
 - Comparative Expressions
 - Logical Expressions
+- Cumulative Operators
+- Switch-case
+- Ternary Operator
+- Scope and Initialization

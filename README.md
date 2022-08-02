@@ -16,3 +16,8 @@ A repository of notes and exercises from my Java learning path.
 - Switch-case
 - Ternary Operator
 - Scope and Initialization
+
+### Repetitive Structure
+- While
+- For
+- Do-while

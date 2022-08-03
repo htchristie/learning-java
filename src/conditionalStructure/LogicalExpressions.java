@@ -1,4 +1,4 @@
-package conditional_structure;
+package conditionalStructure;
 
 public class LogicalExpressions {
     public static void main(String[] args) {

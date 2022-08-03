@@ -1,6 +1,4 @@
-package conditional_structure;
-
-import java.util.Locale;
+package conditionalStructure;
 
 public class ScopeAndInitialization {
     public static void main (String [] args) {

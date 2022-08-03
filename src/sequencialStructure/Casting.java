@@ -1,4 +1,4 @@
-package sequencial_structure;
+package sequencialStructure;
 
 public class Casting {
     public static void main(String[] args) {

@@ -21,3 +21,8 @@ A repository of notes and exercises from my Java learning path.
 - While
 - For
 - Do-while
+
+### Basic Topics
+- Bitwise Operator
+- Functions
+- String functions

@@ -26,3 +26,10 @@ A repository of notes and beecrowdExercises from my Java learning path.
 - Bitwise Operator
 - Functions
 - String functions
+
+### Object Oriented Programming
+- Object
+- Class
+- Attributes
+- Methods
+- toString()

@@ -33,3 +33,4 @@ A repository of notes and beecrowdExercises from my Java learning path.
 - Attributes
 - Methods
 - toString()
+- Static Members

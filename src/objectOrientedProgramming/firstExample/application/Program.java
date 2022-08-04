@@ -1,6 +1,6 @@
-package objectOrientedProgramming.application;
+package objectOrientedProgramming.firstExample.application;
 
-import objectOrientedProgramming.entities.Triangle;
+import objectOrientedProgramming.firstExample.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

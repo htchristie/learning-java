@@ -1,4 +1,4 @@
-package objectOrientedProgramming.entities;
+package objectOrientedProgramming.firstExample.entities;
 
 public class Triangle {
     public double a;

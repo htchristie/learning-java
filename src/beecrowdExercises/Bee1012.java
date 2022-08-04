@@ -1,4 +1,4 @@
-package exercises;
+package beecrowdExercises;
 
 import java.util.Locale;
 import java.util.Scanner;

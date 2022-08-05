@@ -1,5 +1,5 @@
 # Learning Java :pencil2:
-A repository of notes and beecrowdExercises from my Java learning path.
+A repository of notes and exercises.beecrowdExercises from my Java learning path.
 
 ## Content
 

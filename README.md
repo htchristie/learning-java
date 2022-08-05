@@ -34,3 +34,9 @@ A repository of notes and beecrowdExercises from my Java learning path.
 - Methods
 - toString()
 - Static Members
+- Constructors
+- Getters and Setters
+- This
+- Overload
+- Encapsulation
+- Access Modifiers

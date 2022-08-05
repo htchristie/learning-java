@@ -40,3 +40,7 @@ A repository of notes and exercises.beecrowdExercises from my Java learning path
 - Overload
 - Encapsulation
 - Access Modifiers
+
+## Arrays and Lists
+- Array
+- Array of Classes

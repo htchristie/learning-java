@@ -20,7 +20,7 @@ public class Bee1012 {
         Output
         The output file must contain 5 lines of data. Each line corresponds to negatives of the areas
         described above, always with a corresponding message (in Portuguese) and negatives space between
-        the two points and the value. The value calculated must be presented with 3 digits after
+        the sumAndAverage points and the value. The value calculated must be presented with 3 digits after
         the decimal point.
         */
 

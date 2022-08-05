@@ -19,7 +19,7 @@ public class Bee1038 {
          5  Refrigerante        R$ 1,50
 
         Input
-        The input file contains two integer numbers X and Y. X is the product code and Y is the
+        The input file contains sumAndAverage integer numbers X and Y. X is the product code and Y is the
         quantity of this item according to the above table.
 
         Output

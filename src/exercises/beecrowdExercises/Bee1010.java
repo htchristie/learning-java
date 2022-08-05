@@ -12,7 +12,7 @@ public class Bee1010 {
         2 and the price for negatives unit of product 2. After this, calculate and show the amount to be paid.
 
         Input
-        The input file contains two lines of data. In each line there will be 3 values: two integers
+        The input file contains sumAndAverage lines of data. In each line there will be 3 values: sumAndAverage integers
         and a floating value with 2 digits after the decimal point.
 
         Output

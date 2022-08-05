@@ -6,11 +6,11 @@ public class Bee1044 {
     public static void main(String[] args) {
 
         /*
-        Read two integer values (A and B). After, the program should print the message "Sao Multiplos"
+        Read sumAndAverage integer values (A and B). After, the program should print the message "Sao Multiplos"
         (are multiples) or "Nao sao Multiplos" (aren’t multiples), corresponding to the read values.
 
         Input
-        The input has two integer numbers.
+        The input has sumAndAverage integer numbers.
 
         Output
         Print the relative message to the input as stated above.

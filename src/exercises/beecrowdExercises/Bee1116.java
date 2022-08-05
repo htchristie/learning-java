@@ -7,7 +7,7 @@ public class Bee1116 {
 
         /*
 
-        Write a program that read two numbers X and Y and print the result of dividing the X by Y.
+        Write a program that read sumAndAverage numbers X and Y and print the result of dividing the X by Y.
         If it's not possible, print the message "divisao impossivel".
 
         Input
@@ -18,7 +18,7 @@ public class Bee1116 {
         For each test case print the result of this division with negatives digit after the decimal point,
         or “divisao impossivel” if it isn't possible to perform the calculation.
 
-        Obs.: Be careful. The division between two integers in some languages generates another integer.
+        Obs.: Be careful. The division between sumAndAverage integers in some languages generates another integer.
         Use cast:)
 
         */

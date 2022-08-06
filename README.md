@@ -40,7 +40,12 @@ A repository of notes and exercises.beecrowdExercises from my Java learning path
 - Overload
 - Encapsulation
 - Access Modifiers
+- Wrapper Classes
 
 ## Arrays and Lists
 - Array
 - Array of Classes
+- Boxing and Unboxing
+- For Each
+- Lists
+- Matrix

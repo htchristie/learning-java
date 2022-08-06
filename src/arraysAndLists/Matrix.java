@@ -13,8 +13,8 @@ public class Matrix {
         int[][] matrix = new int[N][N];
         List<Integer> negatives = new ArrayList<>();
 
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
+        for (int i = 0; i < matrix.length; i++) {           //lines -> matrix.length
+            for (int j = 0; j < matrix[i].length; j++) {    //columns -> matrix[i].length
                 matrix[i][j] = scan.nextInt();
 
                 if (matrix[i][j] < 0) {
@@ -24,7 +24,7 @@ public class Matrix {
         }
 
         System.out.println("Main diagonal: ");
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < matrix.length; i++) {
             System.out.print(matrix[i][i] + " ");
         }
 

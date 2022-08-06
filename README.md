@@ -20,6 +20,7 @@ A repository of notes and exercises.beecrowdExercises from my Java learning path
 ### Repetitive Structure
 - While
 - For
+- For Each
 - Do-while
 
 ### Basic Topics
@@ -46,6 +47,5 @@ A repository of notes and exercises.beecrowdExercises from my Java learning path
 - Array
 - Array of Classes
 - Boxing and Unboxing
-- For Each
 - Lists
 - Matrix

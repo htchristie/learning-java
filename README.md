@@ -1,6 +1,14 @@
 # Learning Java :pencil2:
 A repository of notes and exercises from my Java learning path.
 
+## Overview
+- [Sequential Structure](#sequential-structure)
+- [Conditional Structure](#conditional-structure)
+- [Repetitive Structure](#repetitive-structure)
+- [Basic Topics](#basic-topics)
+- [Object Oriented Programming](#object-oriented-programming)
+- [Arrays and Lists](#arrays-and-lists)
+
 ## Content
 
 ### Sequential Structure

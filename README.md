@@ -43,7 +43,7 @@ A repository of notes and exercises from my Java learning path.
 - Access Modifiers
 - Wrapper Classes
 
-## Arrays and Lists
+### Arrays and Lists
 - Array
 - Array of Classes
 - Boxing and Unboxing

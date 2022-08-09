@@ -8,6 +8,8 @@ A repository of notes and exercises from my Java learning path.
 - [Basic Topics](#basic-topics)
 - [Object Oriented Programming](#object-oriented-programming)
 - [Arrays and Lists](#arrays-and-lists)
+- [Date and Time](#date-and-time)
+- [Enums and Composition](#enums-and-composition)
 
 ## Content
 
@@ -57,3 +59,15 @@ A repository of notes and exercises from my Java learning path.
 - Boxing and Unboxing
 - Lists
 - Matrix
+
+### Date and Time
+- Timezones
+- ISO 8601
+- Important operations using dateTime
+- Global to Local
+
+### Enums and Composition
+- Enums
+- Design
+- Composition
+- String Builder

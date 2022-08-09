@@ -57,3 +57,15 @@ A repository of notes and exercises from my Java learning path.
 - Boxing and Unboxing
 - Lists
 - Matrix
+
+### Date and Time
+- Timezones
+- ISO 8601
+- Important operations using dateTime
+- Global to Local
+
+### Enums and Composition
+- Enums
+- Design
+- Composition
+- String Builder

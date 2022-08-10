@@ -10,6 +10,7 @@ A repository of notes and exercises from my Java learning path.
 - [Arrays and Lists](#arrays-and-lists)
 - [Date and Time](#date-and-time)
 - [Enums and Composition](#enums-and-composition)
+- [Inheritance and Polymorphism](#inheritance-and-polymorphism)
 
 ## Content
 
@@ -71,3 +72,10 @@ A repository of notes and exercises from my Java learning path.
 - Design
 - Composition
 - String Builder
+
+### Inheritance and Polymorphism
+- Inheritance
+- Upcasting and Downcasting
+- Super
+- Override
+- Final

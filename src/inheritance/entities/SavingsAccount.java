@@ -1,6 +1,8 @@
-package inheritanceAndPolymorphism.exampleOne.entities;
+package inheritance.entities;
 
-public class SavingsAccount extends Account {
+public final class SavingsAccount extends Account {
+    //final: non-access modifier used for classes, attributes and methods, which makes them non-changeable
+    // (impossible to inherit or override)
     private Double interestRate;
 
     public SavingsAccount() {}

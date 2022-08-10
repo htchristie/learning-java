@@ -1,4 +1,4 @@
-package inheritanceAndPolymorphism.exampleOne.entities;
+package inheritance.entities;
 
 public class Account {
 

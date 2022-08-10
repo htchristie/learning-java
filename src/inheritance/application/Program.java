@@ -1,8 +1,8 @@
-package inheritanceAndPolymorphism.exampleOne.application;
+package inheritance.application;
 
-import inheritanceAndPolymorphism.exampleOne.entities.Account;
-import inheritanceAndPolymorphism.exampleOne.entities.BusinessAccount;
-import inheritanceAndPolymorphism.exampleOne.entities.SavingsAccount;
+import inheritance.entities.BusinessAccount;
+import inheritance.entities.SavingsAccount;
+import inheritance.entities.Account;
 
 import java.util.Scanner;
 

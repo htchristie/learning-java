@@ -1,6 +1,8 @@
 package inheritanceAndPolymorphism.exampleOne.entities;
 
 public class Account {
+
+    private static final double taxes = 5.0;
     private Integer number;
     private String holder;
     protected Double balance;
@@ -34,7 +36,7 @@ public class Account {
     }
 
     public void withdraw(double amount) {
-        balance -= amount;
+        balance -= amount + taxes;
     }
 
     public void deposit(double amount) {

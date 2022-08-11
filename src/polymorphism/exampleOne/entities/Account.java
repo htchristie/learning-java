@@ -1,6 +1,6 @@
 package polymorphism.exampleOne.entities;
 
-public class Account {
+public abstract class Account {
 
     private static final double taxes = 5.0;
     private Integer number;

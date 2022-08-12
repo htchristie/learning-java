@@ -11,6 +11,7 @@ A repository of notes and exercises from my Java learning path.
 - [Date and Time](#date-and-time)
 - [Enums and Composition](#enums-and-composition)
 - [Inheritance and Polymorphism](#inheritance-and-polymorphism)
+- [Error Handling](#error-handling)
 
 ## Content
 
@@ -81,3 +82,9 @@ A repository of notes and exercises from my Java learning path.
 - Final
 - Polymorphism
 - Abstract
+
+### Error Handling
+- Try-catch
+- Stack trace
+- Finally
+- Custom exceptions

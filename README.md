@@ -12,6 +12,7 @@ A repository of notes and exercises from my Java learning path.
 - [Enums and Composition](#enums-and-composition)
 - [Inheritance and Polymorphism](#inheritance-and-polymorphism)
 - [Error Handling](#error-handling)
+- [Manipulating Files](#manipulating-files)
 
 ## Content
 
@@ -88,3 +89,11 @@ A repository of notes and exercises from my Java learning path.
 - Stack trace
 - Finally
 - Custom exceptions
+
+### Manipulating Files
+- Reading files with Scanner
+- FileReader
+- BufferedReader
+- Try-with-resources
+- FileWriter
+- BufferedWriter

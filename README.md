@@ -13,6 +13,7 @@ A repository of notes and exercises from my Java learning path.
 - [Inheritance and Polymorphism](#inheritance-and-polymorphism)
 - [Error Handling](#error-handling)
 - [Manipulating Files](#manipulating-files)
+- [Interface](#interface)
 
 ## Content
 
@@ -97,3 +98,6 @@ A repository of notes and exercises from my Java learning path.
 - Try-with-resources
 - FileWriter
 - BufferedWriter
+
+### Interface
+- Interface

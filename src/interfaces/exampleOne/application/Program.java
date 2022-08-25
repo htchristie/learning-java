@@ -34,6 +34,7 @@ public class Program {
         double pricePerDay = scan.nextDouble();
 
         RentalService rentalService = new RentalService(pricePerDay, pricePerHour, new BrazilTaxService());
+        // injeção de dependência por meio de construtor
         rentalService.processInvoice(carRental);
 
         System.out.println("INVOICE:");

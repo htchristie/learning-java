@@ -101,3 +101,5 @@ A repository of notes and exercises from my Java learning path.
 
 ### Interface
 - Interface
+- Dependency Injection
+- Inversion of Control

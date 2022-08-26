@@ -14,6 +14,7 @@ A repository of notes and exercises from my Java learning path.
 - [Error Handling](#error-handling)
 - [Manipulating Files](#manipulating-files)
 - [Interface](#interface)
+- [Generics](#generics)
 
 ## Content
 

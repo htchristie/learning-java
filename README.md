@@ -110,3 +110,11 @@ A repository of notes and exercises from my Java learning path.
 ### Generics
 - Generics
 - Bounded Types with Generics
+- Wildcard Types
+- Bounded Wildcards
+- Covariance
+- Contravariance
+- Equals
+- Hashcode
+- Set
+- Map

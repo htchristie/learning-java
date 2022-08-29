@@ -15,6 +15,7 @@ A repository of notes and exercises from my Java learning path.
 - [Manipulating Files](#manipulating-files)
 - [Interface](#interface)
 - [Generics](#generics)
+- [Functional Programming](#functional-programming)
 
 ## Content
 
@@ -118,3 +119,15 @@ A repository of notes and exercises from my Java learning path.
 - Hashcode
 - Set
 - Map
+
+### Functional Programming
+- Comparator Interface
+- Lambda Expression
+- Anonymous Classes
+- Predicate Interface
+- Reference Methods (static and non-static)
+- Predicate Variable
+- Consumer Interface
+- Function Interface
+- Stream
+- Pipelines
